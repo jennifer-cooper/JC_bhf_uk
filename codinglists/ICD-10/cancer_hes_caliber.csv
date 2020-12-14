@@ -1,0 +1,111 @@
+Category (code),ICD10 code,ICD10 term
+Solid tumour (3) ,C00,Malignant neoplasm of lip
+Solid tumour (3) ,C01,Malignant neoplasm of base of tongue
+Solid tumour (3) ,C02,Malignant neoplasm of other and unspecified parts of tongue
+Solid tumour (3) ,C03,Malignant neoplasm of gum
+Solid tumour (3) ,C04,Malignant neoplasm of floor of mouth
+Solid tumour (3) ,C05,Malignant neoplasm of palate
+Solid tumour (3) ,C06,Malignant neoplasm of other and unspecified parts of mouth
+Solid tumour (3) ,C07,Malignant neoplasm of parotid gland
+Solid tumour (3) ,C08,Malignant neoplasm of other and unspecified major salivary glands
+Solid tumour (3) ,C09,Malignant neoplasm of tonsil
+Solid tumour (3) ,C10,Malignant neoplasm of oropharynx
+Solid tumour (3) ,C11,Malignant neoplasm of nasopharynx
+Solid tumour (3) ,C12,Malignant neoplasm of piriform sinus
+Solid tumour (3) ,C13,Malignant neoplasm of hypopharynx
+Solid tumour (3) ,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx"
+Solid tumour (3) ,C15,Malignant neoplasm of oesophagus
+Solid tumour (3) ,C16,Malignant neoplasm of stomach
+Solid tumour (3) ,C17,Malignant neoplasm of small intestine
+Solid tumour (3) ,C18,Malignant neoplasm of colon
+Solid tumour (3) ,C19,Malignant neoplasm of rectosigmoid junction
+Solid tumour (3) ,C20,Malignant neoplasm of rectum
+Solid tumour (3) ,C21,Malignant neoplasm of anus and anal canal
+Solid tumour (3) ,C22,Malignant neoplasm of liver and intrahepatic bile ducts
+Solid tumour (3) ,C23,Malignant neoplasm of gallbladder
+Solid tumour (3) ,C24,Malignant neoplasm of other and unspecified parts of biliary tract
+Solid tumour (3) ,C25,Malignant neoplasm of pancreas
+Solid tumour (3) ,C26,Malignant neoplasm of other and ill-defined digestive organs
+Solid tumour (3) ,C30,Malignant neoplasm of nasal cavity and middle ear
+Solid tumour (3) ,C31,Malignant neoplasm of accessory sinuses
+Solid tumour (3) ,C32,Malignant neoplasm of larynx
+Solid tumour (3) ,C33,Malignant neoplasm of trachea
+Solid tumour (3) ,C34,Malignant neoplasm of bronchus and lung
+Solid tumour (3) ,C37,Malignant neoplasm of thymus
+Solid tumour (3) ,C38,"Malignant neoplasm of heart, mediastinum and pleura"
+Solid tumour (3) ,C39,Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs
+Solid tumour (3) ,C40,Malignant neoplasm of bone and articular cartilage of limbs
+Solid tumour (3) ,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites
+Solid tumour (3) ,C43,Malignant melanoma of skin
+Solid tumour (3) ,C45,Mesothelioma
+Solid tumour (3) ,C46,Kaposi sarcoma
+Solid tumour (3) ,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system
+Solid tumour (3) ,C48,Malignant neoplasm of retroperitoneum and peritoneum
+Solid tumour (3) ,C49,Malignant neoplasm of other connective and soft tissue
+Solid tumour (3) ,C50,Malignant neoplasm of breast
+Solid tumour (3) ,C51,Malignant neoplasm of vulva
+Solid tumour (3) ,C52,Malignant neoplasm of vagina
+Solid tumour (3) ,C53,Malignant neoplasm of cervix uteri
+Solid tumour (3) ,C54,Malignant neoplasm of corpus uteri
+Solid tumour (3) ,C55,"Malignant neoplasm of uterus, part unspecified"
+Solid tumour (3) ,C56,Malignant neoplasm of ovary
+Solid tumour (3) ,C57,Malignant neoplasm of other and unspecified female genital organs
+Solid tumour (3) ,C58,Malignant neoplasm of placenta
+Solid tumour (3) ,C60,Malignant neoplasm of penis
+Solid tumour (3) ,C61,Malignant neoplasm of prostate
+Solid tumour (3) ,C62,Malignant neoplasm of testis
+Solid tumour (3) ,C63,Malignant neoplasm of other and unspecified male genital organs
+Solid tumour (3) ,C64,"Malignant neoplasm of kidney, except renal pelvis"
+Solid tumour (3) ,C65,Malignant neoplasm of renal pelvis
+Solid tumour (3) ,C66,Malignant neoplasm of ureter
+Solid tumour (3) ,C67,Malignant neoplasm of bladder
+Solid tumour (3) ,C68,Malignant neoplasm of other and unspecified urinary organs
+Solid tumour (3) ,C69,Malignant neoplasm of eye and adnexa
+Solid tumour (3) ,C70,Malignant neoplasm of meninges
+Solid tumour (3) ,C71,Malignant neoplasm of brain
+Solid tumour (3) ,C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system"
+Solid tumour (3) ,C73,Malignant neoplasm of thyroid gland
+Solid tumour (3) ,C74,Malignant neoplasm of adrenal gland
+Solid tumour (3) ,C75,Malignant neoplasm of other endocrine glands and related structures
+Solid tumour (3) ,C76,Malignant neoplasm of other and ill-defined sites
+Solid tumour (3) ,C80,Malignant neoplasm without specification of site
+Solid tumour (3) ,C97,Malignant neoplasms of independent (primary) multiple sites
+Leukaemia (4) ,C900,Multiple myeloma
+Leukaemia (4) ,C901,Plasma cell leukaemia
+Leukaemia (4) ,C910,Acute lymphoblastic leukaemia [ALL]
+Leukaemia (4) ,C911,Chronic lymphocytic leukaemia of B-cell type
+Leukaemia (4) ,C913,Prolymphocytic leukaemia of B-cell type
+Leukaemia (4) ,C916,Prolymphocytic leukaemia of T-cell type
+Leukaemia (4) ,C917,Other lymphoid leukaemia
+Leukaemia (4) ,C918,Mature B-cell leukaemia Burkitt-type
+Leukaemia (4) ,C919,"Lymphoid leukaemia, unspecified"
+Leukaemia (4) ,C92,Myeloid leukaemia
+Leukaemia (4) ,C93,Monocytic leukaemia
+Leukaemia (4) ,C940,Acute erythroid leukaemia
+Leukaemia (4) ,C942,Acute megakaryoblastic leukaemia
+Leukaemia (4) ,C943,Mast cell leukaemia
+Leukaemia (4) ,C947,Other specified leukaemias
+Leukaemia (4) ,C95,Leukaemia of unspecified cell type
+Lymphoma (5) ,C81,Hodgkin lymphoma
+Lymphoma (5) ,C82,Follicular lymphoma
+Lymphoma (5) ,C83,Non-follicular lymphoma
+Lymphoma (5) ,C84,Mature T/NK-cell lymphomas
+Lymphoma (5) ,C85,Other and unspecified types of non-Hodgkin lymphoma
+Lymphoma (5) ,C883,Immunoproliferative small intestinal disease
+Lymphoma (5) ,C887,Other malignant immunoproliferative diseases
+Lymphoma (5) ,C889,"Malignant immunoproliferative disease, unspecified"
+Lymphoma (5) ,C914,Hairy-cell leukaemia
+Lymphoma (5) ,C915,Adult T-cell lymphoma/leukaemia (HTLV-1-associated)
+Lymphoma (5) ,C96,"Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+Metastases (6) ,C77,Secondary and unspecified malignant neoplasm of lymph nodes
+Metastases (6) ,C78,Secondary malignant neoplasm of respiratory and digestive organs
+Metastases (6) ,C79,Secondary malignant neoplasm of other and unspecified sites
+Other myeloproliferative diseases in chapter C (7) ,C86,Other specified types of T/NK-cell lymphoma
+Other myeloproliferative diseases in chapter C (7) ,C880,Waldenstrom macroglobulinaemia
+Other myeloproliferative diseases in chapter C (7) ,C882,Other heavy chain disease
+Other myeloproliferative diseases in chapter C (7) ,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+Other myeloproliferative diseases in chapter C (7) ,C902,Extramedullary plasmacytoma
+Other myeloproliferative diseases in chapter C (7) ,C903,Solitary plasmacytoma
+Other myeloproliferative diseases in chapter C (7) ,C944,Acute panmyelosis with myelofibrosis
+Other myeloproliferative diseases in chapter C (7) ,C946,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+Non-melanoma skin cancer (8) ,C44,Other malignant neoplasms of skin
